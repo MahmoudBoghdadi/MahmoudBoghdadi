@@ -26,7 +26,7 @@ I am a data professional specializing in transforming complex, messy datasets in
 ### 📫 Let's Connect
 
 * **Email:** [mahmoud.elboghdady@gmail.com](mailto:mahmoud.elboghdady@gmail.com)
-* **LinkedIn:** [Connect with me on LinkedIn]([Insert_Your_LinkedIn_URL_Here](https://www.linkedin.com/in/mahmoud-elboghdady-07071169/details/experience/))
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mahmoud-elboghdady-07071169/)
 
 <!---
 MahmoudBoghdadi/MahmoudBoghdadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
