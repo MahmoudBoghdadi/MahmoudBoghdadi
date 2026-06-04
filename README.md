@@ -1,6 +1,6 @@
 # Hi there, I'm Mahmoud Elboghdady 
 
-**Business Intelligence Analyst | Data Scientist**
+**Data Scientist**
 
 I am a data professional specializing in transforming complex, messy datasets into actionable organizational intelligence. With experience architecting data warehouses, engineering automated ETL pipelines, and designing interactive BI dashboards, I focus on enabling data-driven decision-making through descriptive and prescriptive analytics. 
 
